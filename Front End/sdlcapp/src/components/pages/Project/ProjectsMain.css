@@ -1,0 +1,10 @@
+.projects {
+    background-image: url('./../../../images/cool-background1.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    display: flex;
+    height: 100vh;    
+    
+}

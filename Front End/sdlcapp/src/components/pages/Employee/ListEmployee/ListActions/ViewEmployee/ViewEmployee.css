@@ -1,0 +1,37 @@
+
+.employee_info {
+  height: auto;
+  border-radius: 4px;
+  padding-left: 30px;
+  padding-top: 20px;
+  width: auto;
+  margin-left: 5px;
+}
+
+.employee_info div .hiredNo {
+  margin-left: 5px; 
+  color: red;
+}
+
+.employee_info div {
+  font-size: 20px;
+  color: #48601d;
+  font-weight: 500;
+  
+  margin-bottom: 10px;
+}
+/* Στυλ για τον τίτλο (h2) */
+.employee_info .id {
+  font-size: 24px;
+  color: '#3a4c17';
+  background-color: black;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  border-radius: 3px;
+  padding: 5px;
+  margin-left: -3px;
+  width:fit-content;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+

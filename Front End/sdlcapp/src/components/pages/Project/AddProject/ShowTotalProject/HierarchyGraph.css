@@ -1,0 +1,7 @@
+.tree {
+   padding-top: 40px;
+    padding-bottom: 40px;
+    overflow-y: auto;
+    max-height: 500px;
+    scroll-behavior: smooth;
+  }

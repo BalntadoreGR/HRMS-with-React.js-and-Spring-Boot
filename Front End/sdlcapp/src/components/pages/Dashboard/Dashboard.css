@@ -1,0 +1,10 @@
+.dashboard {
+    background-image: url("./../../../images/cool-background1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

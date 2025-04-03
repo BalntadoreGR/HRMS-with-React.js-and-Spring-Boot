@@ -1,0 +1,8 @@
+.home {
+    background-image: url("./../../../images/cool-background1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+}

@@ -1,0 +1,11 @@
+.sdlc {
+    background-image: url("./../../../images/img-1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
